@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://togel-motor.github.io/sitemap.xml
